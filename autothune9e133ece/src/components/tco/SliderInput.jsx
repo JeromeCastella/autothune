@@ -1,7 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import { Slider } from "@/components/ui/slider";
-import { useTheme } from '@/Layout';
+import { useTheme } from '@/pages/Layout';
 import { cn } from "@/lib/utils";
 
 export default function SliderInput({ 
